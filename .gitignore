@@ -1,0 +1,11 @@
+# C++ build artifacts
+*.exe
+*.out
+*.o
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
